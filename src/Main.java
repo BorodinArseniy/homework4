@@ -5,7 +5,7 @@ public class Main {
         Random rand = new Random();
         int age = rand.nextInt(60) + 1;
         System.out.println(age);
-
+//a
         //дз1
         //task1
         if (age >= 18) {
